@@ -1,0 +1,11 @@
+name: my_environment
+dependencies:
+    - jupyterlab
+    - matplotlib=3
+    - notebook
+    - numpy=1
+    - pandas=1
+    - python=3
+    - ruff
+    - scipy=1
+ 
