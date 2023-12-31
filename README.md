@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/template-for-supporting-information/HEAD)
 [![CC BY 4.0][cc-by-shield]][cc-by]
-[![ruff](https://github.com/mlund/template-for-supporting-information/actions/workflows/ruff.yml/badge.svg)](https://github.com/mlund/template-for-supporting-information/actions/workflows/ruff.yml)
+[![ruff](https://github.com/mlund/SI-anomalous_salt/actions/workflows/ruff.yml/badge.svg)](https://github.com/mlund/SI-anomalous_salt/actions/workflows/ruff.yml)
 [![DOI](https://zenodo.org/badge/736627533.svg)](https://zenodo.org/doi/10.5281/zenodo.10438980)
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
