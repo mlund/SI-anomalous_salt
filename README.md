@@ -8,11 +8,14 @@
 
 # Electronic Notebook: Anomalous Salt Dependence Reveals an Interplay of Attractive and Repulsive Electrostatic Interactions in α-synuclein Fibril Formation
 
+This is supporting information for the theoretical parts of the research article https://doi.org/10.1017/qrd.2020.7
+
 ## Layout
 
 Description of the directory layout.
 
-- `simple-mode/` Illustrates a simple electrostatic model
+- `monte-carlo/` Metropolis-Hastings Monte Carlo output data and analysis
+- `simple-model/` Illustrates a simple electrostatic model
 
 ## Requirements
 

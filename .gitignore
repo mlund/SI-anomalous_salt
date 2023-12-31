@@ -12,6 +12,8 @@ __pycache__/
 *.xtc
 *.dcd
 *.trr
+*.pdf
+*.png
 
 # vim backup
 *~
