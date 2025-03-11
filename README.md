@@ -25,6 +25,6 @@ and make sure all required packages are loaded by issuing the following terminal
 
 ``` bash
 conda env create -f environment.yml
-source activate my_environment
+source activate asalt
 jupyter-lab
 ```

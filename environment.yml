@@ -1,5 +1,6 @@
-name: my_environment
+name: asalt
 dependencies:
+    - faunus=2.2
     - jupyterlab
     - matplotlib=3
     - notebook
