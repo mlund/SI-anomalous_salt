@@ -1,6 +1,6 @@
 name: asalt
 dependencies:
-    - faunus=2.2
+    - faunus=2.16
     - jupyterlab
     - matplotlib=3
     - notebook
